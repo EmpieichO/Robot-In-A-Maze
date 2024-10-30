@@ -39,7 +39,9 @@ Although taking a relatively direct path, and executing a simple _turn around_ a
 
 ## Slightly roundabout path (144 steps)
 
-Compared to the 123-steps case above, here Reeborg spent 21 extra steps of code by spinning around a few times at the (5,3) position. This amounts to 4 spins of manoeuvring at one position.
+Compared to the 123-step case above, here Reeborg spent 21 extra steps of code by spinning around a few times at the (5,3) position. This amounts to 4 spins of manoeuvring at one position.
+
+- It cost 144 steps of code for Reborg to complete this path.
 
 ![Figure: ...](../img/start-at-1-2/start@-1,2-rel-direct-manouvre-x-rt.png)
 
@@ -47,13 +49,16 @@ Compared to the 123-steps case above, here Reeborg spent 21 extra steps of code 
 
 In this scenario, Reeborg started off following a more direct path until he reached the (5,3) and (4,5) positions where he spun around a few times, spending a total of 37 steps of code more than the 116-steps case above. (i.e., 150 - (116 - 3) = 37 due to the extra _turn right_ executed in the 116-steps case.)
 
+- So, it took 150 steps of code for Reeborg to reach the destination.
+
 ![Figure: ](../img/start-at-1-2/start@-1,2-direct-manouvre2.png)
 
 ## Roundabout path (171 steps)
 
 The code proves to be erratic in this case as Reeborg spent a whooping 30 steps of code in comparison to the 141-step case above.
 
-- The extra cost of 30 steps of code compared to the 141-step case is split between the spins executed at the starting position (1,2) and the (4,5) position.
+- The extra cost of 30 steps of code, compared to the 141-step case, is split between the spins executed at the starting position (1,2) and the (4,5) position.
+- It took a total of 171 steps of code for Reeborg to complete this path.
 
 ![Figure: .. ](../img/start-at-1-2/start@-1,2-not-direct-manouvre~x.png)
 
@@ -63,4 +68,4 @@ As observed in all the other scenarios,
 
 - Reeborg turns right at the (4,3) and thus manoeuvres to turn around at the (5,3) position.
 
-Logically, an optimal path from the (1,2) position to the destination should cost a minimum of 113 steps of code (and that's if Reeborg starts facing towards the (1,3) position.
+Logically, an optimal path from the (1,2) position to the destination should cost a minimum 113 steps of code (and that's if Reeborg starts facing towards the (1,3) position.
