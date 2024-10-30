@@ -6,7 +6,7 @@ Testing python code that guides a robot out of a maze.
 
 This is a small documentation of testing a python code that helps a robot through a maze.
 
-It's one of the execises in "100 Days Of Code" Udemy course offered by Dr. Angela Yu.
+It's one of the execises in ["100 Days Of Code"](https://www.udemy.com/course/100-days-of-code/) Udemy course offered by Dr. Angela Yu.
 
 The exercise was to help Reeborg the robot manoeuvre from a random point in a 5x5 grid maze to a designated exit (indicated by a flag in the figure below).
 
