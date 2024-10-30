@@ -54,4 +54,4 @@ The discovered bug can be solved by enabling Reeborg to determine whether he has
 
 The idea of using the robot in a maze scenario is the most ingenous teaching aid to reinforce the use and understanding of functions in coding. A hat off to Dr Yu!
 
-See the results according to the starting positions in the [outline doc](Various-starting-point/outline-section.md).
+See the results according to the starting positions in the [outline doc](./Various-starting-point/outline-section.md).
