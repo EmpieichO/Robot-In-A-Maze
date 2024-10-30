@@ -1,4 +1,4 @@
-# An overall outline
+# An overall outline: Robot in a maze
 
 - [Starting at (1,1) position](<starting-at-(1,1)-position.md>)
 - Starting at (1,2) position
