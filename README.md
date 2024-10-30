@@ -53,3 +53,5 @@ I introduced some randomness in turning, especially at points with three walls a
 The discovered bug can be solved by enabling Reeborg to determine whether he has reached the destiny or not. (It doesn't make sense though how this oddity occurs because the main while loop ends on the very condition that the destiny has been reached.)
 
 The idea of using the robot in a maze scenario is the most ingenous teaching aid to reinforce the use and understanding of functions in coding. A hat off to Dr Yu!
+
+See the results according to the starting positions in the [outline doc](../Robot-In-A-Maze/Various%20starting%20point/outline-section.md).
