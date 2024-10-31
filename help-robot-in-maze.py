@@ -1,4 +1,8 @@
 # Helping Reeborg the robot manoeuvre out of a fixed maze 
+# This is the first working code I wrote before checking Dr Yu's solution.
+# Instead of simply adopting Dr Yu's code, I decided to test mine.
+# Note that this code does not have an infinite loop, 
+# ... and it passed the extra real world scenarios Dr Yu provided. 
 
 import random
 
