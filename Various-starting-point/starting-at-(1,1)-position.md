@@ -4,6 +4,14 @@ Below are the paths followed by Reeborg the robot when starting at the (1,1) gri
 
 The paths are presented in the increasing order of the number of steps of code spent from beginning to end.
 
+## Relatively direct path (116 steps)
+
+The figure below depicts an optimal, though not completely direct, path from the (1,1) position to the destination.
+
+- The path in this scenario cost 116 steps of code from the beginning to the end.
+
+![Figure: ...](../img/start-at-1-1/start-1,1-rel-direct-nice-a.png)
+
 ## Relatively direct path (123 steps)
 
 The figure depicts a relatively direct path from the (1,1) position to the destination exit (which is adjacent to the (5,4) position).

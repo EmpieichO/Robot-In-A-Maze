@@ -16,6 +16,4 @@ The resultant paths in this round of testing further substantiate the fact that 
 
 ---
 
-[<< Previous starting point](<starting-at-(2,3)-position.md>)
-
-<!-- \ \ -------- ... -------- / / [Next starting point >>](<starting-at-(3,1)-position.md>) -->
+[<< Previous starting point](<starting-at-(2,3)-position.md>) \ \ -------- ... -------- / / [Next starting point >>](<starting-at-(2,1)-position.md>)
