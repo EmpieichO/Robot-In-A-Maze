@@ -2,7 +2,7 @@
 
 Due to the shape of the this particular maze, position (1,3) is closer to the destination than the (1,1) and (1,2) positions.
 
-We expect the most optimal path when starting at the (1,3) position should cost fewer steps of code than 113.
+We expect the most optimal path when starting at the (1,3) position to cost fewer steps of code than 113.
 
 It is surprising that the relatively direct paths Reeborg followed in this round of testing clocks a at least 124 steps of code.
 
