@@ -6,6 +6,6 @@
 
 ---
 
-[<< Previous starting point](<starting-at-(1,3)-position.md>)
+[<< Previous starting point](<starting-at-(3,1)-position.md>)
 
  <!-- \ \ -------- ... -------- / / [Next starting point >>](<starting-at-(5,1)-position.md>) -->
