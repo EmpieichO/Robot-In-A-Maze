@@ -50,7 +50,7 @@ The scenario depicted in the figure below illustrates the advantage of moving fr
 
 ## Indirect path (153 steps)
 
-The randomization function named `coin_toss()`, and called in line 47 of [help-robot-in-maze.py](https://github.com/EmpieichO/Robot-In-A-Maze/blob/main/help-robot-in-maze.py#L47) code, causes an Reeborg's erratic behaviour.
+The randomization function named `coin_toss()`, and called in line 51 of [help-robot-in-maze.py](https://github.com/EmpieichO/Robot-In-A-Maze/blob/main/help-robot-in-maze.py#L51) code, causes Reeborg's erratic behaviour.
 
 - In the scenario below, Reeborg took a detour from the (1,3) position to the (1,1) position and spun around a few times.
 - Although the path is the same as the one in the 135-step scenario above, Reeborg took an extra 18 steps of code before reaching the destination.
