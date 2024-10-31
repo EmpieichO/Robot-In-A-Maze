@@ -2,7 +2,7 @@
 
 - [Starting at (1,1) position](<starting-at-(1,1)-position.md>)
 - [Starting at (1,2) position](<starting-at-(1,2)-position.md>)
-- Starting at (1,3) position
+- [Starting at (1,3) position](<starting-at-(1,3)-position.md>)
 - Starting at (2,3) position
 - Starting at (2,2) position
 - Starting at (2,1) position
