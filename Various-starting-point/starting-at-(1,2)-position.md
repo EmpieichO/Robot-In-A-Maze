@@ -69,3 +69,7 @@ As observed in all the other scenarios,
 - Reeborg turns right at the (4,3) and thus manoeuvres to turn around at the (5,3) position.
 
 Logically, an optimal path from the (1,2) position to the destination should cost a minimum 113 steps of code (and that's if Reeborg starts facing towards the (1,3) position.
+
+---
+
+[<< Previous starting point](<starting-at-(1,1)-position.md>) \ \ -------- ... -------- / / [Next starting point >>](<starting-at-(1,3)-position.md>)
