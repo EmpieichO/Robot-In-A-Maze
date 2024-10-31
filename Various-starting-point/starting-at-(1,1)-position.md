@@ -43,7 +43,7 @@ An overall observation is that:
 
 - Every path that includes Reeborg moving from (4,1) to (4,3) must also pass through the (5,3) position.
 
-An optimal path from the (1,1) position to the destination should cost 119 steps of code.
+An optimal path from the (1,1) position to the destination should cost a minimum of 115 steps of code.
 
 ---
 
