@@ -1,6 +1,6 @@
 # Starting at position (1,3) in maze
 
-Due to the shape of the this particular maze, position (1,3) is closer to the destination than the (1,1) and (1,2) positions.
+Due to the shape of this particular maze, position (1,3) is closer to the destination than the (1,1) and (1,2) positions.
 
 We expect the most optimal path when starting at the (1,3) position to cost fewer steps of code than 113.
 
