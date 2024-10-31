@@ -4,7 +4,7 @@ Due to the shape of the this particular maze, position (1,3) is closer to the de
 
 We expect the most optimal path when starting at the (1,3) position to cost fewer steps of code than 113.
 
-It is surprising that the relatively direct paths Reeborg followed in this round of testing clocks a at least 124 steps of code.
+It is surprising that the relatively direct paths Reeborg followed in this round of testing clocks at least 124 steps of code.
 
 ## Relatively direct path (124 steps)
 
