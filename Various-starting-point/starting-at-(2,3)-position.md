@@ -58,6 +58,4 @@ It is becoming clear that despite the randomness introduced in the code that cau
 
 ---
 
-[<< Previous starting point](<starting-at-(1,3)-position.md>)
-
-<!-- \ \ -------- ... -------- / / [Next starting point >>](<starting-at-(1,3)-position.md>) -->
+[<< Previous starting point](<starting-at-(1,3)-position.md>) \ \ -------- ... -------- / / [Next starting point >>](<starting-at-(2,2)-position.md>)
