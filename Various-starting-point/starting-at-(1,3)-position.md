@@ -65,4 +65,4 @@ It is clear that optimal paths exist but the randomization introduced in the cod
 
 ---
 
-[<< Previous starting point](<starting-at-(1,2)-position.md>)
+[<< Previous starting point](<starting-at-(1,2)-position.md>) \ \ -------- ... -------- / / [Next starting point >>](<starting-at-(2,3)-position.md>)
