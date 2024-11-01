@@ -15,8 +15,9 @@
 - [Starting at (5,3) position](<starting-at-(5,3)-position.md>)
 - [Starting at (3,3) position](<starting-at-(3,3)-position.md>)
 - [Starting at (3,2) position](<starting-at-(3,2)-position.md>)
-- Starting at (3,4) position
-- Starting at (4,4) position
+- [Starting at (3,4) position](<starting-at-(3,4)-position.md>)
+- [Starting at (4,4) position](<starting-at-(4,4)-position.md>)
+- [Starting at (2,4) position](<starting-at-(2,4)-position.md>)
 - Starting at (1,4) position
 - Starting at (1,5) position
 - Starting at (2,5) position
