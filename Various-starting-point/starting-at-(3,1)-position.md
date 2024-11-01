@@ -1,6 +1,13 @@
 # Starting at (3,1) position in maze
 
-The two resultant paths starting from the (3,1) grid position are both indirect with one or two detours.
+There three paths produced starting from the (3,1) grid position in this testing round,
+
+- One relatively direct path costing 102 steps of code.
+- And two paths with one or two detours.
+
+## Relatively direct path (102 steps)
+
+![Figure: ...](../img/start-at-3-1/start-at-3,1-rel-direct1.png)
 
 ## Indirect path (174 steps)
 

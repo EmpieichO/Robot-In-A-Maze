@@ -4,6 +4,14 @@ Here are the paths Reeborg followed when starting at the (1,2) grid position.
 
 Note how Reeborg always takes a right turn at the (4,3) position.
 
+## Optimal path (108 steps)
+
+The figure below depicts the most optimal path at the (1,2) grid position.
+
+- It took 108 steps of code for Reeborg to complete the path.
+
+![Figure: ..](<../img/start-at-1-2/start-at-(1,2)-best-path.png>)
+
 ## Relatively direct path (116 steps)
 
 In the figure below, Reeborg was initially facing the wall on the left. He therefore had to turn right, which amounts to 3 left turns, and costing 3 steps more than the optimal steps had he initially faced upwards (in the direction of the (1,3) position).
@@ -68,7 +76,7 @@ As observed in all the other scenarios,
 
 - Reeborg turns right at the (4,3) and thus manoeuvres to turn around at the (5,3) position.
 
-Logically, an optimal path from the (1,2) position to the destination should cost a minimum 113 steps of code (and that's if Reeborg starts facing towards the (1,3) position.
+The most optimal path starting from the (1,2) position to the destination costs a minimum of 108 steps.This occurs when Reeborg starts off facing upwards, towards the (1,3) position.
 
 ---
 
