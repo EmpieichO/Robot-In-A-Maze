@@ -12,6 +12,4 @@ Reeborg obeyed the tacit rule and thus began a major detour to the (1,1) grid po
 
 ---
 
-[<< Previous starting point](<starting-at-(3,3)-position.md>) \ \ -------- ... -------- / / [Next >>](minor-bug-1-report.md)
-
-<!-- \ \ -------- ... -------- / / [Next starting point >>](<starting-at-(3,2)-position.md>) -->
+[<< Previous starting point](<starting-at-(3,3)-position.md>) \ \ -------- ... -------- / / [Next starting point >>](<starting-at-(3,4)-position.md>)
