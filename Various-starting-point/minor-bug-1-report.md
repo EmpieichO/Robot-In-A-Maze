@@ -14,7 +14,7 @@ The bug occurs in the scenario where Reeborg starts off at the (5,4) grid positi
 
 Since there is no wall in front, he moves forward through the exit, and reaches the destination.
 
-The lines of code executed thus far are the lines 27, 28 and 29. That is:
+The lines of code executed thus far are the lines 21, 22 and 23. That is:
 
 ```
 while not at_goal():
@@ -22,11 +22,11 @@ while not at_goal():
         move()
 ```
 
-After executing line 29, Reeborg reaches the destination and the `at_goal()` condition is `True`.
+After executing line 23, Reeborg has reached the destination and the `at_goal()` condition is `True`.
 
 However, the next line of code does not check if the `at_goal()` condition is `True` or `False`.
 
-Execution then continues with lines 30 to 33:
+Execution then continues with lines 24 to 27:
 
 ```
         if not wall_on_right():
@@ -35,12 +35,12 @@ Execution then continues with lines 30 to 33:
                 move()
 ```
 
-So, since there is no wall on the right, Reeborg turns right.
+So, since there was no wall on the right, Reeborg turned right.
 
-And after turning right, since there is no wall in front, he moves forward into the mud.
+And after turning right, since there is no wall in front, he moved forward into the mud.
 
 See the fix in [fix-minor-bug-1](fix-minor-bug-1.md)
 
 ---
 
-\ \ -------- ... -------- / / [Next starting point >>](<starting-at-(3,2)-position.md>)
+\ \ -------- ... -------- / / [Back to main >>](../README.md)
