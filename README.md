@@ -41,7 +41,7 @@ After struggling with coming up with a functional code for hours, the excitement
 
 Although the maze is not complicated, the number of possible paths are too many to do a case by case analysis. But I did it.
 
-The obsessive testing paid off in the discovery of one minor bug.
+The obsessive testing paid off in the discovery of one [minor bug](Various-starting-point/minor-bug-1-report.md).
 
 ## Testing results
 
