@@ -21,13 +21,12 @@
 - [Starting at (1,4) position](<starting-at-(1,4)-position.md>)
 - [Starting at (1,5) position](<starting-at-(1,5)-position.md>)
 - [Starting at (2,5) position](<starting-at-(2,5)-position.md>)
-- Starting at (3,5) position
-- Starting at (4,5) position
-- Starting at (5,5) position
-- Starting at (5,4) position
+- [Starting at (3,5) position](<starting-at-(3,5)-position.md>)
+- [Starting at (4,5) position](<starting-at-(4,5)-position.md>)
+- [Starting at (5,5) position](<starting-at-(5,5)-position.md>)
+- [Starting at (5,4) position](<starting-at-(5,4)-position.md>)
 - [Minor bug report](minor-bug-1-report.md)
 - [Fixing the minor bug](fix-minor-bug-1.md)
-<!-- - [2 `move()` tacit rule](double-move-rule.md) -->
 
 ---
 
