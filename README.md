@@ -10,7 +10,7 @@ It's one of the execises in ["100 Days Of Code"](https://www.udemy.com/course/10
 
 The exercise was to help Reeborg the robot manoeuvre from a random point in a 5x5 grid maze to a designated exit (indicated by a flag in the figure below).
 
-In addition to the random starting position, Reeborg starts of facing any of the four possible directions:
+In addition to the random starting position, Reeborg starts off facing any of the four possible directions:
 
 - Left
 - Right
